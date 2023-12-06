@@ -1,0 +1,1 @@
+# thesis-bsc-competence-analysis
