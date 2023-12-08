@@ -4,17 +4,21 @@
 
 ### 4.4 Adatgyűjtés és adattisztítás
   [Scraper script](site_indeed.py) \
-  [Nyers adatkészlet](input/indeed_merged.csv)
+  [Nyers adatkészlet excel](input/indeed_merged.csv)
 
 ### 4.5 Adatok előkészítése az elemzésre
-  Script: https://github.com/Podi/thesis-bsc-competence-analysis/blob/main/preprocess.py
+  [Szöveg előkészítő script](preprocess.py) \
+  [Előkészített adatkészlet excel](input/preprocessed_jobs_all.csv) 
 
 ### 4.6 Munkakörök címeinek elemzése szöveganalitikai eszközökkel
-
 ### 4.6.1 Munkakör címek szavainak gyakoriságvizsgálata
-
+  [N-gram gyakoriságok script](title/title_freq_ngrams_all.ipynb) \
+  [N-gram gyakoriságok tapasztalati szintekre bontva script](title/title_freq_ngrams_levels.ipynb)
+  
 ### 4.6.2 Munkakörök csoportokra osztása
-
+  [Klasztereket létrehozó script](title/title_cluster.ipynb) \
+  [Klaszterek txt](title/clusters.txt) 
+  
 ### 4.7 Kompetenciák feltérképezése az álláshirdetésekben
 
 ### 4.7.1 Álláshirdetések szavainak gyakoriságelemzése
