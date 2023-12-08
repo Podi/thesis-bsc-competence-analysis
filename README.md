@@ -22,7 +22,7 @@
 ## 4.7 Kompetenciák feltérképezése az álláshirdetésekben
 ### 4.7.1 Álláshirdetések szavainak gyakoriságelemzése
   [Leírások N-gram gyakorisága script](description/description_freq_ngrams_all.ipynb) \
-  [Leaírások N-gram gyakoriságok excel](description/description_freq_ngrams_all.xlsx) 
+  [Leírások N-gram gyakoriságok excel](description/description_freq_ngrams_all.xlsx) 
 
   [Leírások N-gram gyakorisága & TF-IDF tapasztalati szintekre bontva script](description/description_freq_ngrams_all_tf-idf.ipynb) \
   Top 50 N-gram gyakoriság & TF-IDF: \
