@@ -25,7 +25,7 @@
   [Leaírások N-gram gyakoriságok excel](description/description_freq_ngrams_all.xlsx) 
 
   [Leírások N-gram gyakorisága & TF-IDF tapasztalati szintekre bontva script](description/description_freq_ngrams_all_tf-idf.ipynb) \
-  Top 50 unigram gyakoriság & TF-IDF: \
+  Top 50 N-gram gyakoriság & TF-IDF: \
     [Junior excel](description/level_comparison/junior_description_top_50_ngrams_tfidf_freq.xlsx) \
     [Medior excel](description/level_comparison/medior_description_top_50_ngrams_tfidf_freq.xlsx) \
     [Senior excel](description/level_comparison/senior_description_top_50_ngrams_tfidf_freq.xlsx) 
