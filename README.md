@@ -7,7 +7,7 @@
   [Nyers adatkészlet csv](input/indeed_merged.csv)
 
 ## 4.5 Adatok előkészítése az elemzésre
-  [Szöveg előkészítő script](preprocess.py) \
+  [Szöveges adatokat előkészítő script](preprocess.py) \
   [Előkészített adatkészlet csv](input/preprocessed_jobs_all.csv) 
 
 ## 4.6 Munkakörök címeinek elemzése szöveganalitikai eszközökkel
