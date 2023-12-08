@@ -1,6 +1,6 @@
-<h1> Podobni Péter - SZAKDOLGOZAT</h1>
-## Alkalmazásintegráció területén szükséges kompetenciák azonosítása szöveganalitikával
-## Álláshirdetések elemzése tananyagfejlesztés megalapozására
+<h1> Podobni Péter - SZAKDOLGOZAT </h1>
+<h1> Alkalmazásintegráció területén szükséges kompetenciák azonosítása szöveganalitikával </h1>
+<h2> Álláshirdetések elemzése tananyagfejlesztés megalapozására </h2>
 
 ### 4.4 Adatgyűjtés és adattisztítás
   [Scraper script](site_indeed.py) \
