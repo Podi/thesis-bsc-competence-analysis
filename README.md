@@ -11,21 +11,21 @@
   [Előkészített adatkészlet excel](input/preprocessed_jobs_all.csv) 
 
 ### 4.6 Munkakörök címeinek elemzése szöveganalitikai eszközökkel
-### 4.6.1 Munkakör címek szavainak gyakoriságvizsgálata
+#### 4.6.1 Munkakör címek szavainak gyakoriságvizsgálata
   [N-gram gyakoriságok script](title/title_freq_ngrams_all.ipynb) \
   [N-gram gyakoriságok tapasztalati szintekre bontva script](title/title_freq_ngrams_levels.ipynb)
   
-### 4.6.2 Munkakörök csoportokra osztása
+#### 4.6.2 Munkakörök csoportokra osztása
   [Klasztereket létrehozó script](title/title_cluster.ipynb) \
   [Klaszterek txt](title/clusters.txt) 
   
 ### 4.7 Kompetenciák feltérképezése az álláshirdetésekben
 
-### 4.7.1 Álláshirdetések szavainak gyakoriságelemzése
+#### 4.7.1 Álláshirdetések szavainak gyakoriságelemzése
 
-### 4.7.2 Szótáralapú gyakoriságviszgálat saját szótárral
+#### 4.7.2 Szótáralapú gyakoriságviszgálat saját szótárral
 
-### 4.7.3 Szótárépítés ESCO osztályozással további hasonlóságvizsgálathoz
+#### 4.7.3 Szótárépítés ESCO osztályozással további hasonlóságvizsgálathoz
 
 ### 4.7.4 Jaccard hasonlósági mátrix építése az ESCO szótárra
 
