@@ -3,6 +3,7 @@
 ## Álláshirdetések elemzése tananyagfejlesztés megalapozására
 
 ### 4.4 Adatgyűjtés és adattisztítás
+https://github.com/Podi/thesis-bsc-competence-analysis/blob/main/preprocess.py
 
 ### 4.5 Adatok előkészítése az elemzésre
 
