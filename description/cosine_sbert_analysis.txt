@@ -1,0 +1,114 @@
+system analyst | use database | 0.8098396062850952
+system analyst | service orient modelling | 0.8305085897445679
+system analyst | quality assurance methodology | 0.8421569466590881
+system analyst |  infrastructure | 1.00000011920929
+system analyst | db | 0.8331372737884521
+system analyst |  system integration | 1.0
+system analyst | sql server | 0.8211466073989868
+system analyst | database | 1.00000011920929
+system analyst | sql | 1.00000011920929
+system analyst | provide support | 0.8509471416473389
+system analyst | iterative development | 0.8142611980438232
+system analyst | software design methodology | 0.81584233045578
+system analyst |  market | 1.0
+system engineer | manage database | 0.8881264328956604
+system engineer | system development life cycle | 0.8500820398330688
+system engineer | computer programming | 0.8796783685684204
+system engineer | internal risk management policy | 0.8240607976913452
+system engineer | model | 1.0
+system engineer | analyse system | 0.8625813722610474
+system engineer | perform risk analysis | 0.8279050588607788
+system engineer | verify formal specification | 0.8680136203765869
+system engineer | provide user documentation | 0.82362961769104
+system engineer | utilise computer aid software engineering tool | 0.8193104863166809
+system engineer | manage staff | 0.8015379905700684
+system engineer |  performance analysis method | 0.8276110887527466
+system engineer | use object orient programming | 1.0
+system engineer | tool software configuration management | 0.8194200992584229
+system engineer | design process | 0.8089660406112671
+system engineer | improve business process | 0.9253448247909546
+system engineer | perform business analysis | 0.8219330310821533
+system engineer | db | 0.8331372737884521
+system engineer |  system integration | 1.0
+system engineer | database management system | 1.0
+system engineer |  system programming | 0.8626645803451538
+system engineer | database | 1.00000011920929
+system engineer | data model | 1.0
+system engineer | identify customer requirement | 0.8058493137359619
+system engineer | business process | 1.0
+system engineer | use computer aid engineering system | 0.8106812238693237
+system engineer | modelling | 0.8036192655563354
+system engineer | object orient modelling | 0.8132920265197754
+software engineer | matlab | 1.0
+software engineer | model | 1.0
+software engineer | design computer network | 0.876033365726471
+software engineer | analyse software specification | 0.8627977967262268
+software engineer | design process | 0.8086415529251099
+software engineer | agile project management | 0.8121827840805054
+software engineer |  system integration | 1.0
+software engineer | create software design | 0.8474634885787964
+software engineer | execute integration testing | 0.8018524050712585
+software engineer | provide support | 1.0
+software engineer | modelling | 0.8036192655563354
+software engineer | electrical engineering | 1.0
+software engineer | agile development | 0.903508186340332
+software engineer | software design methodology | 0.8096596002578735
+application system analyst | model | 1.0
+application system analyst | troubleshoot | 0.9640644788742065
+application system analyst | perform troubleshooting | 0.848222017288208
+application system analyst | configure system | 1.0
+application system analyst |  system integration | 1.0
+application system analyst | business process | 1.0
+application system analyst | modelling | 0.8036192655563354
+application system analyst | business system | 1.0
+quality assurance engineer | java | 1.0
+quality assurance engineer | tool test automation | 0.9352500438690186
+quality assurance engineer | troubleshoot | 1.00000011920929
+quality assurance engineer | create project specification | 0.8233403563499451
+quality assurance engineer | perform troubleshooting | 0.8773143887519836
+quality assurance engineer | quality assurance methodology | 0.8822636604309082
+quality assurance engineer | design process | 0.8086415529251099
+quality assurance engineer | integrate data | 0.855347216129303
+quality assurance engineer | develop test suite | 0.8725206851959229
+quality assurance engineer | develop automate software test | 0.9124113917350769
+quality assurance engineer | plan software testing | 0.9040594696998596
+quality assurance engineer | agile development | 0.8461189866065979
+application developer mulesoft cloud | analyse business requirement | 0.8630505204200745
+application developer mulesoft cloud | database development tool | 0.8519915342330933
+application developer mulesoft cloud | computer programming | 0.8189035654067993
+application developer mulesoft cloud | develop cloud service | 0.8175572156906128
+application developer mulesoft cloud | troubleshoot | 1.00000011920929
+application developer mulesoft cloud | perform troubleshooting | 0.8183380961418152
+application developer mulesoft cloud | db | 0.8331372737884521
+application developer mulesoft cloud |  system integration | 1.0
+application developer mulesoft cloud | database | 1.00000011920929
+application developer mulesoft cloud | execute integration testing | 0.8328028917312622
+application developer mulesoft cloud | provide support | 1.0
+application developer mulesoft cloud | adapt change situation | 0.8088773488998413
+application developer mulesoft cloud | business requirement technique | 0.8595826625823975
+oracle application solution architect | perform procurement process | 0.8150835037231445
+oracle application solution architect | design process | 0.8086415529251099
+oracle application solution architect | execute integration testing | 0.8801202178001404
+oracle application solution architect | business process | 1.0
+oracle application solution architect | innovate  | 0.843055009841919
+oracle application solution architect |  market | 0.9999999403953552
+oracle application solution architect | business system | 0.8915982246398926
+vice president information technology system integration | define technology strategy | 0.8883798122406006
+vice president information technology system integration | operating system | 1.0
+vice president information technology system integration | manage data architecture | 0.8639644384384155
+vice president information technology system integration | manage budget | 0.9677920341491699
+vice president information technology system integration | ensure adherence organisational standard | 0.8354604840278625
+vice president information technology system integration | perform resource planning | 0.8076650500297546
+vice president information technology system integration |  system integration | 1.0
+vice president information technology system integration | provide system training | 0.8429902195930481
+vice president information technology system integration | implement strategic planning | 0.8787291646003723
+vice president information technology system integration | manage standard enterprise resource planning system | 0.8308455944061279
+vice president information technology system integration | business process | 0.8074893355369568
+vice president information technology system integration | mechanic | 1.0
+vice president information technology system integration | data analytic | 1.0
+product manager | perform project management | 0.8231202363967896
+product manager | create solution problem | 0.8200650811195374
+product manager | identify customer requirement | 0.8055582046508789
+product manager | usability engineering | 0.8393594622612
+product manager | agile development | 0.8460707664489746
+product manager | innovate  | 1.0
