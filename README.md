@@ -3,7 +3,7 @@
 ## Álláshirdetések elemzése tananyagfejlesztés megalapozására </h2>
 
 ## 4.4 Adatgyűjtés és adattisztítás
-  [Scraper script](site_indeed.py) \
+  [Web scraper script](site_indeed.py) \
   [Nyers adatkészlet csv](input/indeed_merged.csv)
 
 ## 4.5 Adatok előkészítése az elemzésre
