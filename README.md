@@ -53,4 +53,4 @@
   
 ### 4.7.6 Koszinusz hasonlósági mátrix építése S-BERT modellel az ESCO szótárra
   [GloVe & koszinusz hasonlósági mátrix script](description/description_skills_match_cosine_sbert.ipynb) \
-  [Mátrix3 excel](description/matrix/04_similarity_matrix_cosine_sbert.xlsx)
+  [Mátrix4 excel](description/matrix/04_similarity_matrix_cosine_sbert.xlsx)
