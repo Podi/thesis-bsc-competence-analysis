@@ -1,10 +1,10 @@
 # Podobni Péter - SZAKDOLGOZAT
-# Alkalmazásintegráció területén szükséges kompetenciák azonosítása szöveganalitikával
-# Álláshirdetések elemzése tananyagfejlesztés megalapozására
+## Alkalmazásintegráció területén szükséges kompetenciák azonosítása szöveganalitikával
+## Álláshirdetések elemzése tananyagfejlesztés megalapozására
 
-## 4.4 Adatgyűjtés és adattisztítás
-## 4.5 Adatok előkészítése az elemzésre
-4.6 Munkakörök címeinek elemzése szöveganalitikai eszközökkel
+### 4.4 Adatgyűjtés és adattisztítás
+### 4.5 Adatok előkészítése az elemzésre
+### 4.6 Munkakörök címeinek elemzése szöveganalitikai eszközökkel
 4.6.1 Munkakör címek szavainak gyakoriságvizsgálata
 4.6.2 Munkakörök csoportokra osztása
 4.7 Kompetenciák feltérképezése az álláshirdetésekben
