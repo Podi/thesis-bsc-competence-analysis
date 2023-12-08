@@ -1,4 +1,4 @@
-# Podobni Péter - SZAKDOLGOZAT
+<h1> Podobni Péter - SZAKDOLGOZAT</h1>
 ## Alkalmazásintegráció területén szükséges kompetenciák azonosítása szöveganalitikával
 ## Álláshirdetések elemzése tananyagfejlesztés megalapozására
 
